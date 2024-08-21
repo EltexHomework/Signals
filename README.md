@@ -15,6 +15,8 @@ make clean
 
 ## Демонстрация работы программы
 - Задание №1
+![task1](https://github.com/user-attachments/assets/a336c821-6dec-421a-a0e3-d117750762fd)
 
 - Задание №2
+![task2](https://github.com/user-attachments/assets/a7eac084-d589-43ac-82f2-f07ef09186e6)
 
